@@ -34,7 +34,6 @@ It is designed as a practice ground for strengthening problem-solving skills and
 ### 5. Recursion & Backtracking
 - Factorial, Fibonacci, Tower of Hanoi
 - N-Queens Problem
-- Rat in a Maze
 - Sudoku Solver
 
 ### 6. Trees
